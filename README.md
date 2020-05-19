@@ -1,6 +1,6 @@
 # Go_Goa
 
-> Android, Node, Firebase
+> Android, Node, Firebase, Machine Learning
 
 ## About
 
@@ -70,11 +70,11 @@ This project was developed as a solution for a problem statement in Smart India 
 
 ## Contributors
 
+- Jigar Avalani - jigaravalani143@gmail.com
 - Bhavin Mehta - mehtabhavin10@gmail.com
 - Priyam Vora - priyamvora99@gmail.com
 - Pragnya Konakalla - pragnyak09@gmail.com
 - Smruti Belgali - smruti22oct@gmail.com
-- Jigar Avalani - jigaravalani143@gmail.com
 - Smit Malkan - smitmalkan99@gmail.com
 
 
